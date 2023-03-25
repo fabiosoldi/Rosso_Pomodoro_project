@@ -1,0 +1,17 @@
+.BackgroundHeader{
+    background-image:url("https://citynews-arezzonotizie.stgy.ovh/~media/horizontal-hi/65425404677780/lampredotto-firenze-600x390-600x390-2.jpg");
+    color : red;
+    font-size: 50px;
+    text-shadow: 2px 2px white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 500px;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.Ingredienti, .preparazione{
+    font-family: Arial, Helvetica, sans-serif;
+    color : red;
+}

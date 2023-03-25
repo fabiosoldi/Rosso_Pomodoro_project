@@ -1,0 +1,17 @@
+.BackgroundHeader{
+    background-image:url("https://www.giallozafferano.it/images/219-21928/Spaghetti-alla-Carbonara_650x433_wm.jpg");
+    color : red;
+    font-size: 50px;
+    text-shadow: 2px 2px white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 500px;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.Ingredienti, .preparazione{
+    font-family: Arial, Helvetica, sans-serif;
+    color : red;
+}
